@@ -1,6 +1,6 @@
 package com.mark.zkcuratordemo.zk.leader;
 
-import com.chenguo.zk.constant.CommonConstant;
+import com.mark.zkcuratordemo.zk.constant.CommonConstant;
 import org.apache.curator.RetryPolicy;
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.CuratorFrameworkFactory;

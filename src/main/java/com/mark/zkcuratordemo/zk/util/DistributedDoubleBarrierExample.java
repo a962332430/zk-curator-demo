@@ -1,6 +1,6 @@
 package com.mark.zkcuratordemo.zk.util;
 
-import com.chenguo.zk.constant.CommonConstant;
+import com.mark.zkcuratordemo.zk.constant.CommonConstant;
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.CuratorFrameworkFactory;
 import org.apache.curator.framework.recipes.barriers.DistributedDoubleBarrier;
